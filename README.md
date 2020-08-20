@@ -1,4 +1,4 @@
-#Coursera - Getting and cleaning data - Course project
+# Coursera - Getting and cleaning data - Course project
 
 This project is done as a part of Getting and cleaning data course on coursera. R script `run_analysis.R` in this repo does the following :
  1. Check whether the working directory contains the required dataset needed to run the script. If not, download the dataset and unzip it
